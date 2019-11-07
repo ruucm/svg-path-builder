@@ -1,0 +1,36 @@
+{
+  "name": "react-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --hmr-hostname 0.0.0.0",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ruucm:ruucm/react-in-simple-html.git"
+  },
+  "author": "ruucm",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel-preset-react-app": "^3.1.0",
+    "framer": "1.0.0-beta.16",
+    "lodash": "^4.17.11",
+    "parcel-bundler": "latest",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "redux": "^4.0.1",
+    "ruucm-util": "^0.11.0",
+    "styled-components": "^4.3.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "node-sass": "^4.11.0",
+    "sass": "^1.16.1"
+  }
+}
