@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "sass": "^1.16.1"
   }
 }
